@@ -20,4 +20,6 @@
         </div>
     </div>
 </div>
+
+<a class="btn btn-primary" href="/chat" role="button">Ir a la sala de chat</a>
 @endsection
